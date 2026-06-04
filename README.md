@@ -19,7 +19,7 @@ Developed an interactive Power BI dashboard to analyze telecom users, network ty
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard]("C:\Users\anugr\OneDrive\Pictures\Screenshots\Screenshot 2026-06-04 105700.png")
 
 ## Insights
 - Compared Airtel, Jio, BSNL, and Vodafone users.
